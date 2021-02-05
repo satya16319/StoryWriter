@@ -8,7 +8,7 @@ class Contact extends Component
         return(
             <div>
 
-                <h1>Contact Page</h1>
+                <h1>Contact1 Page</h1>
             
             </div>
         )
